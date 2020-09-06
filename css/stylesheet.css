@@ -1,0 +1,28 @@
+/*///// Full Page /////*/
+* {
+	font-family: 'Open Sans', sans-serif;
+	padding: 0px;
+	margin: 0px;
+	scroll-behavior: smooth;
+}
+
+/*///// Body Header (Start) /////*/
+header.body {
+	height: auto;
+	width: 100%;
+	overflow-x: hidden;
+	scroll-behavior: smooth;
+}
+/*///// Body Header (End) /////*/
+
+img.profile {
+	height: 250px;
+	width: auto;
+}
+section.first-section {
+
+}
+img.skill-icon {
+	height: 50px;
+	width: auto;
+}
